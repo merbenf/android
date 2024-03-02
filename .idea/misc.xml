@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/ajt_btn.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/btn_top.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/login_btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/ouvr_btn.xml" value="0.1415" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable-v24/viewcol.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable/colplus.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable/ic_edit.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/drawable/ic_person_add.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_clientlist.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_detailsclt.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_regester.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Cfp/app/src/main/res/layout/toolbar.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
